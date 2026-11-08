@@ -1,0 +1,23 @@
+
+# Environment variables and API keys
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Downloaded videos and audio
+downloads/
+
+# ChromaDB database
+vector_db/
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# IDE files
+.vscode/
+.idea/
