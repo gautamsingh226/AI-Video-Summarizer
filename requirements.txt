@@ -37,3 +37,4 @@ sarvamai>=0.0.1
 
 # --- Config ---
 python-dotenv>=1.0.0
+audioop-lts
